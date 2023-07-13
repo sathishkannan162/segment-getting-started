@@ -6,6 +6,7 @@ export default function Home() {
     <div>
       <h1>Hello</h1>
       <TrackButton />
+      <TrackPage />
     </div>
   );
 }
